@@ -1,0 +1,8 @@
+# Ignore large model and data files
+task1_tracking/detr-resnet-50/model.safetensors
+task1_tracking/yolo11x.pt
+task3_bonus/rosbags/seq2.bag
+task3_bonus/rosbags/seq3.bag
+task3_bonus/results/4_rosbags/seq2_rosbag_result.bag
+task3_bonus/results/4_rosbags/seq3_rosbag_result.bag
+
